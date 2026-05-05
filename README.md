@@ -18,7 +18,7 @@
 Скопируй ссылку ниже и вставь в свой VPN-клиент:
 
 ```
-https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/mania-white.txt
+https://raw.githubusercontent.com/bpm500/mania-white/refs/heads/main/mania-white.txt
 ```
 
 ---
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/ma
 
 ### Android — v2rayNG
 
-1. Установи [v2rayNG](https://github.com/2dust/v2rayNG/releases) из GitHub
+1. Установи [Happ](https://github.com/Happ-proxy/happ-android) из GitHub
 2. Открой приложение → нажми **+** в правом верхнем углу
 3. Выбери **Импорт конфигурации из URL**
 4. Вставь ссылку подписки → **OK**
