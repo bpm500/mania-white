@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/bpm500/mania-white/refs/heads/main/mania-white
 
 ## 🚀 Быстрый старт
 
-### Android — v2rayNG
+### Android — Happ
 
 1. Установи [Happ](https://github.com/Happ-proxy/happ-android) из GitHub
 2. Открой приложение → нажми **+** в правом верхнем углу
